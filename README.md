@@ -1,3 +1,11 @@
+# Test Aprobados
+![image](https://user-images.githubusercontent.com/96325513/170425220-17a06e30-c255-4fbd-a4f4-c613c05a532b.png)
+
+# Main solved
+![image](https://user-images.githubusercontent.com/96325513/170425459-0e29c098-9981-4af0-98de-a8895fc1560f.png)
+
+Autor: Duvan Arley Botero Rivillas
+
 java8-functional-Katas
 ======================
 Some Katas for functional programming in Java 8 for a coding dojo (loosely based on http://reactive-extensions.github.io/learnrx/ and converted to Java)
@@ -20,10 +28,4 @@ Katas
 * Kata 11: Transforming a more complex data structure
 
 
-# Test Aprobados
-![image](https://user-images.githubusercontent.com/96325513/170425220-17a06e30-c255-4fbd-a4f4-c613c05a532b.png)
 
-# Main solved
-![image](https://user-images.githubusercontent.com/96325513/170425459-0e29c098-9981-4af0-98de-a8895fc1560f.png)
-
-Autor: Duvan Arley Botero Rivillas
