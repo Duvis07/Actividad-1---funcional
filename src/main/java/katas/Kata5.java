@@ -19,6 +19,8 @@ public class Kata5 {
     public static Double execute() {
         List<Movie> movies = DataUtil.getMovies();
 
-        return movies.stream().mapToDouble(Movie::getRating).reduce(Double::max).getAsDouble();
+        return movies.stream()
+                .reduce((mayor, menor) -> mayor.getRating() > menor.getRating() ? mayor : menor)
+                .get().getRating();
     }
 }
